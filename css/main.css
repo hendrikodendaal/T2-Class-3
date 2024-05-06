@@ -1,0 +1,26 @@
+button {
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 50px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+  }
+
+  p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+ 
+    font-size: 140px;
+
+  }
+
+  .flexCont{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
